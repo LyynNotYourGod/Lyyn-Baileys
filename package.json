@@ -1,5 +1,5 @@
 {
-  "name": "@LyynNotYourGod/lyyn-baileys",
+  "name": "@lyynnotyourgod/lyyn-baileys",
   "version": "7.1.1",
   "description": "WhatsApp API Modification By Lyyn",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/LyynNotYourGod/lyyn-baileys",
+  "homepage": "https://github.com/lyynnotyourgod/lyyn-baileys",
   "repository": {
-    "url": "git@github.com:LyynNotYourGod/lyyn-baileys.git"
+    "url": "git@github.com:lyynnotyourgod/lyyn-baileys.git"
   },
   "license": "MIT",
-  "author": "@LyynNotYourGod",
+  "author": "@lyynnotyourgod",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
